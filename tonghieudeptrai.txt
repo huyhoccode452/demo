@@ -1,9 +1,1 @@
-#include<bits/stdc++.h>
-
-using namespace std;
-
-int main(){
-
-cout << "Hello Tong HIeu dep trai day";
-return 0;
-}
+okokokokokokok
